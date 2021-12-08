@@ -23,7 +23,7 @@ sevenSegment.setNumber(i);
 
 **How to show specific characters**
 ```C
-/*value should be between ['a', 'b', 'c', 'd', 'e', 'f', 'h', 'l', 'p', 'q', 'u', 'y']*/
+/*value should be between ['a', 'b', 'c', 'd', 'e', 'f', 'h', 'i', 'j', 'l', 'o', 'p', 'q', 'r', 'u', 'y', 'z']*/
 sevenSegment.setCharacter(c);
 ```
 **How to clean value**
